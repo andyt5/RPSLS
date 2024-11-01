@@ -1,7 +1,7 @@
 # RPSLS
 
 ----
-<h1> The ZIP version should contain a stable build and uses JDK SE-15 </h1>
+<h1> The ZIP folder should contain a stable build and uses JDK SE-15 </h1>
 
 
 <p>This is a game of Rock, Paper, Scissors, Lizard, Spock. It was written in Java and made using the Eclipse IDE.</p>
